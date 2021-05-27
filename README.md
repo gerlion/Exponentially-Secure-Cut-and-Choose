@@ -23,5 +23,6 @@ opam update
 opam install coq-color
 # Coq code
 Running make newProofOfShuffle.vo.vo will prompt Coq to check the proofs
-### Note this code is being made avaliable as part of an anonymous submission
-the authors' names will be posted at a later date
+### Related Paper
+This code is from "A Novel Proof of Shuffle: Exponentially Secure Cut-and-Choose"
+by Thomas Haines and Johannes Mueller https://eprint.iacr.org/2021/588
